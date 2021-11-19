@@ -315,7 +315,7 @@
       <dependency>
         <groupId>org.fusesource.jansi</groupId>
         <artifactId>jansi</artifactId>
-        <version>1.13</version>
+        <version>1.18</version>
       </dependency>
       <dependency>
         <groupId>org.apache.maven.shared</groupId>
